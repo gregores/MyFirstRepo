@@ -3,3 +3,5 @@ a new line
 another one
 -----> \o/
 \o/\o/\o/
+
+Testando se esse novo branch funciona.
